@@ -386,6 +386,18 @@
     [
       "490ada61-e432-411e-a580-2a7b6074653a",
       "Root"
+    ],
+    [
+      "da7bdab0-dfb6-461d-a9d0-03adc5dc6dae",
+      "sensors"
+    ],
+    [
+      "95880844-df06-4a30-ae9f-ceb62a99b36b",
+      "mcu"
+    ],
+    [
+      "56617717-e27a-437f-b409-3d1bea52c9d5",
+      "power"
     ]
   ],
   "text_variables": {}
